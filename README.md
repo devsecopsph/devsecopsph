@@ -66,11 +66,11 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsecops&show_icons=true&theme=default" alt="Emerson Que's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devsecopsph&show_icons=true&theme=default" alt="Emerson Que's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsecops&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsecopsph&theme=default" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsecops&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsecopsph&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
