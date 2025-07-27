@@ -58,7 +58,7 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emersonque)
-- 🌍 [GitHub](https://github.com/devsecops)
+- 🌍 [GitHub](https://github.com/devsecopsph)
 - 📬 Email: emerson.que[at]email.com
 
 ---
@@ -66,7 +66,11 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsecops&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devsecops&show_icons=true&theme=default" alt="Emerson Que's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsecops&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsecops&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
