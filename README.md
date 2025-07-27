@@ -40,7 +40,7 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 ## 📜 Certifications
 
 - ✅ **Certified Kubernetes Security Specialist (CKS)** – Linux Foundation
-- ✅ **HashiCorp Certified: Terraform Associate**
+- ✅ **HashiCorp Certified: Terraform Associate Engineer
 - ✅ **AWS Certified Security – Specialty**
 - ✅ **Certified DevSecOps Professional (CDP)** – Practical DevSecOps
 - ✅ **GIAC Cloud Security Essentials (GCLD)** – SANS Institute
@@ -59,18 +59,6 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emersonque)
 - 🌍 [GitHub](https://github.com/devsecopsph)
-- 📬 Email: emerson.que[at]email.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsecopsph&show_icons=true&theme=default" alt="Emerson Que's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsecopsph&theme=default" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsecopsph&layout=compact&theme=default" alt="Top Languages" />
-</p>
+- 📬 Email: emerson.que@yahoo.com
 
 ---
