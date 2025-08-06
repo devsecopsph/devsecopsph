@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Emerson Que 👋</h1>
-<h3 align="center">DevSecOps Engineer | Cloud Infrasture/Security | Automation Enthusiast</h3>
+<h3 align="center">DevSecOps Engineer | Cloud Infrastructure/Security | Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsecops&label=Profile%20views&color=0e75b6&style=flat" alt="devsecops" />
@@ -41,9 +41,7 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 
 - ✅ **Certified Kubernetes Security Specialist (CKS)** – Linux Foundation
 - ✅ **HashiCorp Certified: Terraform Associate Engineer
-- ✅ **AWS Certified Security – Specialty**
-- ✅ **Certified DevSecOps Professional (CDP)** – Practical DevSecOps
-- ✅ **GIAC Cloud Security Essentials (GCLD)** – SANS Institute
+- ✅ **AWS Certified Practictioner*
 
 ---
 
