@@ -42,7 +42,7 @@ I’m a Cloud Infrastructure and DevSecOps Engineer with a strong focus on secur
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/emerson-que-53b42b143/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emerson-que-53b42b143/)
 - 🌍 [GitHub](https://github.com/devsecopsph)
 - 📬 Email: emerson.que@yahoo.com
 
