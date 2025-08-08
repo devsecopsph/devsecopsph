@@ -9,12 +9,12 @@
 
 ## 💼 About Me
 
-I’m a security-focused DevOps engineer with a passion for building secure, scalable, and automated cloud infrastructure. With over 17 years of experience in IT Engineering, I specialize in integrating security practices into every stage of the software development lifecycle.
+I’m a Cloud Infrastructure and DevSecOps Engineer with a strong focus on security, automation, and scalability. With over 17 years of experience in IT engineering, I specialize in designing, building, and securing cloud-native environments that empower businesses to deliver faster and safer.
 
-- 🔒 DevSecOps advocate – shifting security left
-- ☁️ Cloud-native architecture, Kubernetes, and IaC
-- ⚙️ CI/CD pipelines, GitOps, and automation
-- 🛡️ Vulnerability management & compliance
+- 🔒 DevSecOps advocate – Shifting security left and integrating it into every stage of delivery
+- ☁️ Cloud-Native Engineering – Kubernetes, Terraform, and Infrastructure as Code (IaC)
+- ⚙️ Automation-Driven – CI/CD pipelines, GitOps, and streamlined deployments
+- 🛡️ Security & Compliance – Vulnerability management, hardening, and governance
 
 ---
 
@@ -24,38 +24,25 @@ I’m a security-focused DevOps engineer with a passion for building secure, sca
 - **Security Tools:** HashiCorp Vault, Snyk, Aqua Security, Checkov, Trivy
 - **CI/CD & Automation:** GitHub Actions, Jenkins, ArgoCD, Terraform, Ansible
 - **Containerization:** Docker, Kubernetes, Helm
-- **Scripting & Languages:** Python, Bash, Go
-- **IaC & Policy as Code:** Terraform, OPA, Sentinel
+- **Scripting & Languages:** Bash, Shell
+- **IaC & Policy as Code:** Terraform
 
 ---
 
 ## 🏆 Awards & Recognition
 
-- 🥇 **Top 10 Finalist** – Global DevSecOps Challenge 2024 (by Snyk)
-- 🏅 **Best Cloud Security Project** – [Company Name] Annual Tech Awards, 2023
-- 🎖️ **Recognized Speaker** – DevOpsDays Manila 2022
+- 🥇 *Team Member of the Month (x2) * – Samsung Philippines
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Certified Kubernetes Security Specialist (CKS)** – Linux Foundation
 - ✅ **HashiCorp Certified: Terraform Associate Engineer
 - ✅ **AWS Certified Practictioner*
 
----
-
-## 🔍 What I'm Working On
-
-- 🔭 Automating security controls in CI/CD pipelines
-- 🌱 Building secure IaC modules with reusable patterns
-- 🛠️ Open-source contributions to cloud security tooling
-
----
-
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/emersonque)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emerson-que-53b42b143/))
 - 🌍 [GitHub](https://github.com/devsecopsph)
 - 📬 Email: emerson.que@yahoo.com
 
